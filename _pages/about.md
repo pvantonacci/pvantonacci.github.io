@@ -8,28 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circula r
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 
 
-I’m a joint Ph.D. candidate in Economics and Public Policy at Duke University. My work sits at the intersection of public economics and development. With a with a focus on building data-driven policies that improve governance. 
+I’m a joint Ph.D. candidate in Economics and Public Policy at Duke University. My work sits at the intersection of public economics and development. With a with a focus on building data-driven policies that improve governance. test
 
 My job market paper — *Who Should the Taxman Visit? Evidence from Door-to-Door Tax Enforcement in Indonesia* — uses causal forests to identify which taxpayers respond most to in-person enforcement, making the trade-offs between participation-maximizing and revenue-maximizing strategies explicit. In a nutshell: **(i) prioritizing participation** increases both the number of payers and total revenue but **is highly regressive**; **(ii) prioritizing revenue** yields large fiscal gains with **no change in participation**; and **(iii) standard risk-based strategies** (targeting likely delinquents) **deliver no improvements** in either outcome. You can find the latest version here: [JMP (PDF)](https://www.dropbox.com/scl/fi/qodx9itpiat1vxvspoo0p/JMP-Public.pdf?rlkey=p8k3a90d65dcu74db79mge6qq&st=kbwywkgm&dl=0). 
 
