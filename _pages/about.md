@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Ph.D Candidate at Duke</a>. 
+subtitle: <a href='#'>Ph.D. Candidate at Duke</a>. 
 
 profile:
   align: right
@@ -15,14 +15,14 @@ profile:
 I’m a joint Ph.D. candidate in Economics and Public Policy at Duke University. My main research fields are public economics, development, and applied econometrics/machine learning.
 
 
-My job market paper — Whom Should the Taxman Visit? Evidence from Door-to-Door Tax Enforcement in Indonesia — proposes a Neyman-orthogonal estimator based on the R-learner to identify which taxpayers respond most to in-person enforcement. I then use these individualized treatment-effect estimates to make transparent the trade-offs between participation-maximizing and revenue-maximizing strategies that arise from heterogeneous treatment effects. The policy implications are:
+My job market paper *— Whom Should the Taxman Visit? Evidence from Door-to-Door Tax Enforcement in Indonesia —* proposes a Neyman-orthogonal estimator based on the R-learner to identify which taxpayers respond most to in-person enforcement. I use these individualized treatment-effect estimates to make transparent the trade-offs between participation-maximizing and revenue-maximizing strategies that arise from heterogeneous treatment effects. The policy implications are:
 1. **Targeting participation** increases both the number of payers and total revenue but **is highly regressive**; 
 2. **Targeting revenue** yields large fiscal gains with **no change in participation**; 
 3. **Standard risk-based strategies** (targeting likely delinquents) **deliver no improvements** in either outcome. 
 
 You can find the latest version here: [Job Market Paper (PDF)](https://www.dropbox.com/scl/fi/m38wrfte8meloy1eo04p0/Antonacci_JMP.pdf?rlkey=gktvfn6swxqepk4625qju5phr&st=n9ligkl4&dl=0)
 
-My research agenda includes several ongoing and planned projects, including:</p>
+My research agenda includes several ongoing and planned projects, including:
 <ol>
   <li>Low-cost digital nudges for tax compliance in Indonesia.</li>
   <li>Political cycles and deforestation in Brazil.</li>
