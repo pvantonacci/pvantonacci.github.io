@@ -19,6 +19,6 @@ My job market paper — *Who Should the Taxman Visit? Evidence from Door-to-Door
 2. **Prioritizing revenue** yields large fiscal gains with **no change in participation**; 
 3. **Standard risk-based strategies** (targeting likely delinquents) **deliver no improvements** in either outcome. 
 
-You can find the latest version here: [Job Market Paper (PDF)](https://www.dropbox.com/scl/fi/qodx9itpiat1vxvspoo0p/JMP-Public.pdf?rlkey=p8k3a90d65dcu74db79mge6qq&st=kbwywkgm&dl=0)
+
 
 
