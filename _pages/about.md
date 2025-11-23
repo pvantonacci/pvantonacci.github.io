@@ -12,7 +12,7 @@ profile:
 
 ---
 
-I’m a joint Ph.D. candidate in Economics and Public Policy at Duke University. My main research fields are public economics, development, and applied econometrics/machine learning.
+I’m a joint Ph.D. candidate in Economics and Public Policy at Duke University. My main research fields are public economics, public policy, and applied econometrics/machine learning.
 
 
 My job market paper *— Whom Should the Taxman Visit? Evidence from Door-to-Door Tax Enforcement in Indonesia —* proposes a Neyman-orthogonal estimator based on the R-learner to identify which taxpayers respond most to in-person enforcement. I use these individualized treatment-effect estimates to make transparent the trade-offs between participation-maximizing and revenue-maximizing strategies that arise from heterogeneous treatment effects. The policy implications are:
@@ -33,5 +33,5 @@ My research agenda includes several ongoing and planned projects, including:
 </ol>
 
 
-If you are interested in more information about any of these projects—or potential collaboration—please feel free to contact me at  **paulo.antonacci@duke.edu**.
+If you are interested in more information about any of these projects or potential collaboration please feel free to contact me at  **paulo.antonacci@duke.edu**.
 
