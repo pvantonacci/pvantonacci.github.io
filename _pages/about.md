@@ -19,15 +19,6 @@ My job market paper — Whom Should the Taxman Visit? Evidence from Door-to-Door
 2. **Prioritizing revenue** yields large fiscal gains with **no change in participation**; 
 3. **Standard risk-based strategies** (targeting likely delinquents) **deliver no improvements** in either outcome. 
 
-You can find the latest version here: [Job Market Paper (PDF)](https://www.dropbox.com/scl/fi/m38wrfte8meloy1eo04p0/Antonacci_JMP.pdf?rlkey=gktvfn6swxqepk4625qju5phr&st=n9ligkl4&dl=0)
-
-My research agenda includes several ongoing and planned projects, including:
-	1.	Low-cost digital nudges for tax compliance in Indonesia.
-	2.	Political cycles and deforestation in Brazil.
-	3.	The implications of the old-age security hypothesis under pension reform in Brazil.
-	4.	The evaluation of a tax-rebate policy in Pakistan.
-	5.	Market design and foster care policy in Brazil.
-	6.	Double-robust machine-learning methods for causal inference and treatment prioritization.
 
 Before my Ph.D., I worked as a Public Sector Specialist at the World Bank across Brazil, Indonesia, Uruguay, Mexico, Mozambique, and Belize on wage-bill simulations, governance diagnostics, anti-corruption surveys, and taxation research (including field experiments). I have also held research positions at Harvard Business School and at FGV-IBRE in Brazil.
 
