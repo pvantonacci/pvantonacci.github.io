@@ -57,7 +57,7 @@ nav_order: 2
 
 #### **Algorithmic Design of Foster-Care Placements: Evidence from Brazilian Child-Protection Data**
 (with Yuri Costa)  
-*Early-stage work in progress*
+*Slides available upon request*
 
 **Abstract:** This leverages on a novel rich administrative dataset from Brazil’s foster-care and child-protection systems to study how institutional design and decision-making rules shape children’s trajectories. Brazil has a large and heterogeneous system of institutional and family-based care, with substantial regional variation in capacity, implementation quality, and the interaction between child-protection services, courts, and social assistance. Despite a sizable pool of prospective adoptive parents, there is a striking mismatch: adults wait on average more than two years to adopt a child, while children wait roughly one and a half years to be adopted. These delays are partly driven by institutional rules requiring repeated reassessments of family risk and complex, multi-stage case processing.
 
