@@ -45,6 +45,28 @@ nav_order: 2
 
 ### WORK IN PROGRESS
 
+
+#### **Retirement Security and Reproductive Choices: Causal Evidence from Brazilian Pension Reforms**
+*Slides available upon request*
+
+**Abstract:** The “old-age security hypothesis” suggests that, in environments with limited formal social insurance, children partly serve as a form of old-age security: higher fertility helps diversify income risk and secure support in old age. This mechanism should be especially relevant in economies where social protection systems are weaker. Exploiting two quasi-experimental pension reforms that altered expected retirement benefits while leaving current income unchanged, the project seeks to identify whether these exogenous shifts in future income led to reductions in fertility. The results may have important policy implications: as developing countries expand contributory and pay-as-you-go pension systems, benefit formulas often rely on assumed fertility rates. If fertility declines in response to pension expansion, these systems may become financially fragile, with contribution bases shrinking relative to promised benefits. *(The project is currently in the final stages of establishing the data-sharing agreement with the Brazilian goverment.)*
+
+**Key Words:** *Pensions; Fertility; Social Insurance; Brazil*
+
+---
+
+#### **Algorithmic Design of Foster-Care Placements: Evidence from Brazilian Child-Protection Data**
+(with Yuri Costa)  
+*Early-stage work in progress*
+
+**Abstract:** This leverages on a novel rich administrative dataset from Brazil’s foster-care and child-protection systems to study how institutional design and decision-making rules shape children’s trajectories. Brazil has a large and heterogeneous system of institutional and family-based care, with substantial regional variation in capacity, implementation quality, and the interaction between child-protection services, courts, and social assistance. Despite a sizable pool of prospective adoptive parents, there is a striking mismatch: adults wait on average more than two years to adopt a child, while children wait roughly one and a half years to be adopted. These delays are partly driven by institutional rules requiring repeated reassessments of family risk and complex, multi-stage case processing.
+
+We are currently investigating whether initial triage and risk-assessment data are informative enough to predict key policy decisions early in the process—such as reunification, long-term foster care, or adoption—and how alternative decision rules would affect child welfare and time to stable placement. Using tools from causal inference and market design, we simulate counterfactual scenarios in which (i) human decisions are augmented by algorithmic decision-support tools and (ii) certain stages of the process are partially automated by algorithms. The goal is to quantify the trade-offs between speed, stability, and fairness in matching children to families, and to inform the design of ethically grounded, data-driven reforms to foster-care and adoption systems.
+
+**Key Words:** *Foster Care; Child Protection; Market Design; Algorithmic Decision-Making; Administrative Data*
+
+---
+
 #### **Optimal Stop in Auditing: Estimating a Dynamic Tax Auditing Strategy**
 *Slides available upon request*
 
@@ -54,5 +76,10 @@ nav_order: 2
 
 ---
 
-#### **Retirement Security and Reproductive Choices: Causal Evidence from Brazilian Pension Reforms**
-*Slides available upon request*
+#### **Tax Rebate Policy Evaluation in Pakistan**
+(with Muhammad Khudadad Chattha and Cem Ozdemir)  
+*Early-stage work in progress*
+
+**Abstract:** This project evaluates the impact of tax rebate policies on payment behavior and revenue in Pakistan, using administrative tax records and staged policy roll-outs.
+
+**Key Words:** *Tax Incentives; Compliance; Developing Countries; Public Finance*
