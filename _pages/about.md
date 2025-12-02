@@ -26,10 +26,10 @@ My research agenda includes several ongoing and planned projects, including:
 <ol>
   <li>Low-cost digital nudges for tax compliance in Indonesia.</li>
   <li>Political cycles and deforestation in Brazil.</li>
-  <li>The implications of the old-age security hypothesis under pension reform in Brazil.</li>
-  <li>The evaluation of a tax-rebate policy in Pakistan.</li>
-  <li>Market design and foster care policy in Brazil.</li>
-  <li>Double-robust machine-learning methods for causal inference and treatment prioritization.</li>
+  <li>The old-age security hypothesis under pension reform in Brazil.</li>
+  <li>Evaluation of a tax-rebate policy in Pakistan.</li>
+  <li>Algorithmic governance and foster-care policy in Brazil.</li>
+  <li>Double-robust, machine-learning methods based on pseudo-treatments identification strategy.</li>
 </ol>
 
 
